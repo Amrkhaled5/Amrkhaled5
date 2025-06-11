@@ -1,7 +1,7 @@
 <div align="center" width="50%">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Amr Khaled" width="60%"/>  
-<h2>Amr Khaled</h2>
+<h2>Amr Khaled Abo Bakr</h2>
 <h3> Software Tester | ISTQB® Certified</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Software Tester" width="40%"/>  
